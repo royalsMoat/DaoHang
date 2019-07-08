@@ -10,7 +10,8 @@
 + Docker官方仓库 - [Docker Hub](https://hub.docker.com)
 
 ## 中间件
-+ 缓存 - [Redis](https://redis.io)
++ Redis用于数据库、缓存、消息代理的基于内存的数据结构存储 - [Redis](https://redis.io)
++ RabbitMQ部署最广泛的开源消息代理 - [RabbitMQ](https://www.rabbitmq.com)
 
 ## 工具
 + API开发测试环境 - [postman](https://www.getpostman.com)
