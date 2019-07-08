@@ -8,3 +8,7 @@
 
 ## 中间件
 + 缓存 - [Redis](https://redis.io)
+
+## 其他
+
++ 快速、简洁且高效的博客框架 - [Hexo](https://hexo.io)
