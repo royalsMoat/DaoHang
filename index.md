@@ -4,6 +4,12 @@
 + Spring 开发框架 - [Spring Framework](https://spring.io/)
 + JDK - [Java SE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
+## Web前端
++ VUE渐进式JavaScript 框架 - [vue](https://cn.vuejs.org/)
++ Element基于Vue2.0的桌面端组件库 - [element ui](https://element.eleme.cn/#/zh-CN)
++ Nuxt一个Vue.js的框架，预置了所有的配置使得Vue的开发更享受 - [nuxt](https://nuxtjs.org/)
++ 更多VUE资源，如UI Frameworks可参考 - [Vue资源](https://curated.vuejs.org/)
+
 ## Kubernetes
 + 生产级的容器编排K8S - [kubernetes](https://kubernetes.io/)
 + 云原生计算基金会 - [CNCF](https://www.cncf.io)
