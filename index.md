@@ -25,6 +25,7 @@
 + SwitchHosts! 是一个管理、切换多个 hosts 方案的工具 - [SwitchHost](https://oldj.github.io/SwitchHosts/)
 + TortoiseGit与Git交互的Windows Shell - [TortoiseGit](https://tortoisegit.org)
 + IntelliJ IDEA为专业的开发人员打造的Java IDE - [IntelliJ IDEA](https://www.jetbrains.com/idea)
++ Gitlab CI 基于Gitlab的CI/CD集成文档 - [Gitlab CI](https://gitlab.com/gitlab-org/gitlab-ce/tree/master/doc/ci)
 
 ## 其他
 
